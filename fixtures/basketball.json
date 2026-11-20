@@ -1,0 +1,62 @@
+{
+  "_fixture": {
+    "recorded_from": "POST /v1.3/search",
+    "query_text": "person dunks a basketball",
+    "search_options": ["visual", "audio"],
+    "keywords": ["dunk", "dunks", "basketball", "hoop", "slam", "layup", "court"]
+  },
+  "search_pool": {
+    "total_count": 5,
+    "total_duration": 9867.1,
+    "index_id": "671a2b3c4d5e6f7a8b9c0d1e"
+  },
+  "data": [
+    {
+      "video_id": "67e55044-10b1-426f-9247-bb680e5fe0c8",
+      "start": 412.3,
+      "end": 419.8,
+      "score": 86.42,
+      "confidence": "high"
+    },
+    {
+      "video_id": "9a1f3c2e-77d4-4b1a-8a2f-0c5d6e7f8a9b",
+      "start": 2211.0,
+      "end": 2218.6,
+      "score": 84.97,
+      "confidence": "high"
+    },
+    {
+      "video_id": "67e55044-10b1-426f-9247-bb680e5fe0c8",
+      "start": 988.1,
+      "end": 996.4,
+      "score": 81.33,
+      "confidence": "high"
+    },
+    {
+      "video_id": "9a1f3c2e-77d4-4b1a-8a2f-0c5d6e7f8a9b",
+      "start": 647.5,
+      "end": 653.2,
+      "score": 74.08,
+      "confidence": "medium"
+    },
+    {
+      "video_id": "67e55044-10b1-426f-9247-bb680e5fe0c8",
+      "start": 120.9,
+      "end": 127.0,
+      "score": 68.51,
+      "confidence": "medium"
+    },
+    {
+      "video_id": "c4d5e6f7-a8b9-4c0d-9e1f-2a3b4c5d6e7f",
+      "start": 1502.2,
+      "end": 1508.9,
+      "score": 52.17,
+      "confidence": "low"
+    }
+  ],
+  "page_info": {
+    "limit_per_page": 10,
+    "total_results": 6,
+    "page_expires_at": "2026-11-20T18:22:10Z"
+  }
+}

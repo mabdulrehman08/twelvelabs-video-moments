@@ -1,0 +1,27 @@
+{
+  "index_id": "671a2b3c4d5e6f7a8b9c0d1e",
+  "index_name": "demo-video-library",
+  "model": "marengo2.7",
+  "videos": {
+    "67e55044-10b1-426f-9247-bb680e5fe0c8": {
+      "title": "pickup-game-rucker-park.mp4",
+      "duration": 1264.4
+    },
+    "9a1f3c2e-77d4-4b1a-8a2f-0c5d6e7f8a9b": {
+      "title": "high-school-finals-q4.mp4",
+      "duration": 2893.0
+    },
+    "3b8e1d90-5c2a-4f7e-b6d1-2e4f5a6b7c8d": {
+      "title": "cooking-show-ep12-pasta.mp4",
+      "duration": 1742.6
+    },
+    "c4d5e6f7-a8b9-4c0d-9e1f-2a3b4c5d6e7f": {
+      "title": "trail-ride-gopro-moab.mp4",
+      "duration": 3121.9
+    },
+    "f0e1d2c3-b4a5-4968-8776-655443322110": {
+      "title": "city-street-timelapse.mp4",
+      "duration": 845.2
+    }
+  }
+}
